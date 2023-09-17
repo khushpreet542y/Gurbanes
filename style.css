@@ -1,0 +1,77 @@
+body{
+    background: linear-gradient(to right,rgb(248, 105, 105),rgb(246, 246, 116),rgb(242, 195, 109));
+padding: 0;
+margin: 2px;
+
+}
+
+marquee{
+    background: linear-gradient(to right,rgb(206, 111, 247),rgb(100, 245, 192));
+border-radius: 10px;
+    display: flex;
+    font-size: 33px;
+    font-style: italic;
+}
+
+.container {
+    font-size: 28px;
+    text-align: center;
+    background-color: rgb(243, 223, 132);
+    border-radius: 20px;
+    display: block;
+}
+.box1 {
+    font-size: 28px;
+    text-align: center;
+    background-color: rgb(195, 230, 254);
+    border-radius: 20px;
+    display: block;
+}
+.box2 {
+    font-size: 28px;
+    text-align: center;
+    background-color: rgb(180, 249, 231);
+    border-radius: 20px;
+    display: block;
+}
+.box3 {
+    font-size: 28px;
+    text-align: center;
+    background-color: rgb(243, 179, 250);
+    border-radius: 20px;
+    display: block;
+}
+.box4 {
+    font-size: 28px;
+    text-align: center;
+    background-color: rgb(254, 207, 161);
+    border-radius: 20px;
+    display: block;
+}
+.box5 {
+    font-size: 28px;
+    text-align: center;
+    background-color: rgb(246, 151, 151);
+    border-radius: 20px;
+    display: block;
+}
+.box6 {
+    font-size: 28px;
+    text-align: center;
+    background-color: rgb(224, 239, 219);
+    border-radius: 20px;
+    display: block;
+}
+.box7 {
+    font-size: 28px;
+    text-align: center;
+    background-color: rgb(198, 196, 252);
+    border-radius: 20px;
+    display: block;
+}
+
+button {
+    font-size:22px ;
+    background-color: rgb(249, 202, 115);
+    border-radius: 10px;
+}
